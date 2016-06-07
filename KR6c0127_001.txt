@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:58.462345
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:28
 #+TITLE: 摩訶般若波羅蜜大明呪經
 #+PROPERTY: CBETA_ID T08n0250
 #+PROPERTY: ID KR6c0127
