@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:57.879067
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:28
 #+TITLE: 摩訶般若波羅蜜大明呪經
 #+PROPERTY: CBETA_ID T08n0250
 #+PROPERTY: ID KR6c0127
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 250
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0127_T_000-0847c>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0127_T_001-0847c> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.250[Nos.251-255,257]¶
-
- 《摩訶般若波羅蜜大明呪經》¶
+No. 250 [Nos. 251-255, 257]¶
+《摩訶般若波羅蜜大明呪經》¶
 ¶
 姚秦天竺三藏鳩摩羅什譯¶
 
